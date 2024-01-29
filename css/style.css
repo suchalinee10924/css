@@ -1,0 +1,37 @@
+body{
+
+    background-color: pink;
+}
+
+/* tag */
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray ;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1{
+    color: green;
+}
+
+p{
+    color: rgb(255, 0, 230);
+}
+img{
+    background-color: blue;
+}
+
+/*2. class selector */
+.Broccoli{
+    background-color: yellow;
+}
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+    color: peru;
+}
